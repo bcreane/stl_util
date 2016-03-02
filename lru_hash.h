@@ -7,10 +7,9 @@
 #ifndef LRU_HASH_LRU_HASH_H
 #define LRU_HASH_LRU_HASH_H
 
-#include <cstdlib>
 #include <unordered_map>
+#include <cstdlib>
 #include <list>
-#include "compiler.h"
 
 /**
  * @file        lru_hash.h
